@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>hi</pattern>
+    <template>hello😃</template>
+  </category>
+<category>
+    <pattern>hello</pattern>
+    <template>hello user😁</template>
+</category>
+<category>
+    <pattern>how are you</pattern>
+    <template>I am a bot and i'm working well and glad to ask me😊</template>
+</category>
+
+</aiml>
